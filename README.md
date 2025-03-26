@@ -14,9 +14,9 @@
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 
 ## 📈 GitHub Stats
-![Gil's GitHub stats](https://github-readme-stats.vercel.app/api?username=<username>&show_icons=true&theme=radical)
+![Gil's GitHub stats](https://github-readme-stats.vercel.app/api?username=<GilRahamim>&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<username>&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<GilRahamim>&layout=compact&theme=radical)
 
 
 
