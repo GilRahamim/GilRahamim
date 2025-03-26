@@ -21,10 +21,6 @@
 
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=gilRahamim.gilRahamim)
-
-
-
 📫 **Contact me:**
 - [LinkedIn](https://www.linkedin.com/in/gil-rahamm/)
 - [Email](gilrahamim1@gmail.com)
