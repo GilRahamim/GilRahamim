@@ -9,6 +9,7 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Java](https://img.shields.io/badge/-Java-blue?style=flat-square&logo=openjdk)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-orange?style=flat-square&logo=jupyter)
 ![Git](https://img.shields.io/badge/-Git-red?style=flat-square&logo=git)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
