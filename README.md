@@ -13,14 +13,14 @@
 ![Git](https://img.shields.io/badge/-Git-red?style=flat-square&logo=git)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 
-
+## 📈 GitHub Stats
 ![Gil's GitHub stats](https://github-readme-stats.vercel.app/api?username=<username>&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<username>&layout=compact&theme=radical)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=<username>.<username>)
 
 
 
 📫 **Contact me:**
 - [LinkedIn](https://www.linkedin.com/in/gil-rahamm/)
-- [Email](mailto: gilrahamim1@gmail.com)
+- [Email](gilrahamim1@gmail.com)
