@@ -21,7 +21,7 @@
 
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=GilRahamim.GilRahamim)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=gilRahamim.gilRahamim)
 
 
 
