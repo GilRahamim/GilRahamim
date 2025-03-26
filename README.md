@@ -14,7 +14,14 @@
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 
 
+## 🔥 Currently working on:
+- 🌱 Data Science projects
+- 🧠 Machine learning and deep learning models
+- 🔍 Data analysis and visualization
 
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=<GilRahamim>.<GilRahamim>)
 
 
 
