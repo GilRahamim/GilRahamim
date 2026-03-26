@@ -6,7 +6,7 @@
 
 B.Sc. in Computer Science (Data Science) · AI Engineer, Hebrew University
 
-Building intelligent systems — from classical ML to LLM-powered agents and RAG pipelines.
+Building intelligent systems - from classical ML to LLM-powered agents and RAG pipelines.
 
 ---
 
@@ -45,11 +45,11 @@ Building intelligent systems — from classical ML to LLM-powered agents and RAG
 
 ### Featured Projects
 
-🔊 **Footstep Detection via Geophonic Sensors** — Neural Network (AutoEncoder) for human detection · Elbit Systems
+🔊 **Footstep Detection via Geophonic Sensors** - Neural Network (AutoEncoder) for human detection · Elbit Systems
 
-📈 **S&P 500 Trend Prediction** — Stock trend forecasting using ML & Deep Learning
+📈 **S&P 500 Trend Prediction** - Stock trend forecasting using ML & Deep Learning
 
-🏎️ **F1 Sports Data Analysis** — Data exploration & analysis with Python
+🏎️ **F1 Sports Data Analysis** - Data exploration & analysis with Python
 
 ---
 
