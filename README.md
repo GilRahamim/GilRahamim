@@ -1,26 +1,64 @@
-### 👋 Hi, I'm Gil Rahamim!
+<div align="center">
 
-💻 I'm a third-year Computer Science student specializing in Data Science.  
-✨ Passionate about algorithms, machine learning, and creative problem-solving.  
-🚀 Currently exploring projects involving ML, Deep Learning, and Python.
+# Gil Rahamim
 
+**AI & GenAI Engineer · Data Science**
 
-## 🛠️ Technologies & Tools
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Java](https://img.shields.io/badge/-Java-blue?style=flat-square&logo=openjdk)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+B.Sc. in Computer Science (Data Science) · AI Engineer, Hebrew University
 
+Building intelligent systems — from classical ML to LLM-powered agents and RAG pipelines.
 
-## 🔥 Currently working on:
-- 🌱 Data Science projects
-- 🧠 Machine learning and deep learning models
-- 🔍 Data analysis and visualization
+---
 
+### AI & Machine Learning
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-📫 **Contact me:**
-- [LinkedIn](https://www.linkedin.com/in/gil-rahamm/)
-- [Email](gilrahamim1@gmail.com)
+### LLMs & GenAI
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-6F42C1?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI_Agents-FF6F00?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+
+### Deep Learning & NLP
+
+![CNN](https://img.shields.io/badge/CNN-EE4C2C?style=flat-square)
+![RNN / LSTM](https://img.shields.io/badge/RNN_/_LSTM-EE4C2C?style=flat-square)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=flat-square)
+
+### Infrastructure & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+---
+
+### Featured Projects
+
+🔊 **Footstep Detection via Geophonic Sensors** — Neural Network (AutoEncoder) for human detection · Elbit Systems
+
+📈 **S&P 500 Trend Prediction** — Stock trend forecasting using ML & Deep Learning
+
+🏎️ **F1 Sports Data Analysis** — Data exploration & analysis with Python
+
+---
+
+<a href="https://www.linkedin.com/in/gil-rahamim">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:gilrahamim1@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+
+</div>
